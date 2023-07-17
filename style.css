@@ -1,0 +1,151 @@
+body{
+  background-image: url("istockphoto-517188688-170667a.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#a1
+{
+  border-style: solid;
+  width: 700px;
+  height: 350px;  
+  margin-left: 420px;
+  margin-top: 100px;
+  background-color: bisque;
+} 
+#a2
+{
+  font-size:x-large;
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 650px;
+  height: 100px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:rgb(100, 255, 255);
+}
+#a3
+{ 
+  font-size:large;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 110px;
+  width: 100px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+  background-color: red;
+} 
+#b1
+{
+  border-style: solid;
+  width: 700px;
+  height: 500px;  
+  margin-left: 420px;
+  margin-top: 100px;
+  background-color: blanchedalmond;
+}
+#b2
+{
+  font-size:x-large;
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 650px;
+  height: 100px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+}
+#b3
+{ 
+  font-size:large;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 80px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+} 
+#b4
+{ 
+  font-size:large;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 2px;
+  width: 120px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 280px;
+  background-color: red;
+}
+#b4:hover
+{
+  background-color: aliceblue;
+}
+#b5
+{
+  display: flex;
+  justify-content: center;
+} 
+#b6
+{
+   margin-top: 30px;
+   margin-left: 5px;   
+}
+#b7
+{
+  /* border-style: solid; */
+  width:50px;
+  height: 50px;
+  margin-top: 40px;
+  /* margin-left:2px;  */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+}
+#b8
+{
+  font-size:x-large;
+  /* border-style: solid; */
+  border-radius: 20px;
+  margin-top: 15px;
+  width: 650px;
+  height: 60px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#c1
+{
+ margin-left:540px;
+ margin-top: 80px;
+  
+}
+#c2
+{
+  border-style: solid;
+  border-radius: 10px;
+  width: 80px;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 750px;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
